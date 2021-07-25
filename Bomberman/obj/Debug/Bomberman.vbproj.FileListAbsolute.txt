@@ -1,0 +1,9 @@
+E:\Facultate\pi\Bomberman\Bomberman\bin\Debug\Bomberman.exe
+E:\Facultate\pi\Bomberman\Bomberman\bin\Debug\Bomberman.pdb
+E:\Facultate\pi\Bomberman\Bomberman\bin\Debug\Bomberman.xml
+E:\Facultate\pi\Bomberman\Bomberman\obj\Debug\Bomberman.frmMain.resources
+E:\Facultate\pi\Bomberman\Bomberman\obj\Debug\Bomberman.Resources.resources
+E:\Facultate\pi\Bomberman\Bomberman\obj\Debug\Bomberman.vbproj.GenerateResource.Cache
+E:\Facultate\pi\Bomberman\Bomberman\obj\Debug\Bomberman.exe
+E:\Facultate\pi\Bomberman\Bomberman\obj\Debug\Bomberman.xml
+E:\Facultate\pi\Bomberman\Bomberman\obj\Debug\Bomberman.pdb
